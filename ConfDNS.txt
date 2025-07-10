@@ -8,5 +8,7 @@
                                                                  
 ------------------------* | SCRIPT DE INSTALACIÓN Y CONFIGURACIÓN  | *------------------------
 
-			 [47m[30m➤ Configura una zona directa y una zona inversa    [0m
+			[47m[30m➤ Instala y prepara el servidor apache             [0m
+			
+			[47m[30m➤ Configura una zona directa y una zona inversa    [0m
  
